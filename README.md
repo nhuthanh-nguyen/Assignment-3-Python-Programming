@@ -77,10 +77,12 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 
 ##### **9. Graphical User Interface (GUI):** 
 - A Python-based GUI developed using Tkinter to visualise key insights interactively. The GUI is structured into clearly navigable tabs:
--- Overview: Championship summary.
--- Player Stats: Interactive statistics of individual players.
--- Team Comparison: Quarter-by-quarter performance charts for each final game (Games 1-5).
--- Game Box Scores: Detailed box scores for each final game (Games 1–5).
+  - Overview: Championship summary.
+  - Player Stats: Interactive statistics of individual players.
+  - Team Comparison: Quarter-by-quarter performance charts for each final game (Games 1-5).
+  - Game Box Scores: Detailed box scores for each final game (Games 1–5).
+  - 
+---
 
 ##### **Necessary API Keys:**
 - The project uses data retrieved from the website https://rapidapi.com/api-sports/api/api-basketball
