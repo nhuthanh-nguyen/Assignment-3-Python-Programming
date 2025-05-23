@@ -105,9 +105,10 @@ This notebook presents a comprehensive analysis and visualisation of player and 
 ---
 
 ### **Run the GUI**
-- Download the file
+- Download the file zip
 - Unzip the file .rar or .zip 
-- Navigate to the extracted folder, and you will see a file named GUI.py
+- Navigate to the extracted folder, and you will see a file named GUI.ipynb
+- Create a new folder on Jupyter Notebook and then upload all the files in the GUI folder
 - Install Dependencies: install required packages using:
 ```bash
 pip install -r requirements.txt
