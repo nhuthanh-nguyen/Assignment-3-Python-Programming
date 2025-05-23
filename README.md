@@ -8,7 +8,6 @@ This notebook presents a comprehensive analysis and visualisation of player and 
 The notebook includes the following sections:
 ##### **1. API** : 
 - Retrieved data using a free API provided by RapidAPI - API-Basketball website https://rapidapi.com/api-sports/api/api-basketball
-
 - API key used: c3d8aa9a21msh7581db5aa693f61p1ab7fcjsnf0cdd2ef7be3
 - Extracted relevant data specific to the championship finals between the Dallas Mavericks and Boston Celtics.
 - Data stored in CSV format as NBA_Finals_2023_2024_API.csv
@@ -75,6 +74,9 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 
 ##### **8. Unit Testing:**
 - Developed unit tests to ensure data processing and cleaning functions work correctly, enhancing reliability and maintainability.
+
+##### **9. Graphical User Interface (GUI):** 
+- A Python-based GUI developed using Tkinter to visualise key insights interactively.
 ---
 
 ### **Contributors:**
