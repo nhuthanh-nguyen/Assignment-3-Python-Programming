@@ -5,7 +5,9 @@ This notebook presents a comprehensive analysis and visualisation of player and 
 ---
 
 ### **Notebook Structure:**
-The notebook includes the following sections:
+-  Assignment3_PythonProgramming_Project.ipynb
+-  GUI.ipynb
+The notebook Assignment3_PythonProgramming_Project.ipynb includes the following sections:
 ##### **1. API** : 
 - Retrieved data using a free API provided by RapidAPI - API-Basketball website https://rapidapi.com/api-sports/api/api-basketball
 - API key used: c3d8aa9a21msh7581db5aa693f61p1ab7fcjsnf0cdd2ef7be3
@@ -119,13 +121,13 @@ python GUI.py
 ``` 
   - On Jupyter Notebook using
 ```bash
-jupyter notebook GUI.py
+jupyter notebook GUI.ipynb
 ```
 ---
 ### **Notes**
-- The GUI.py file can only run on Anaconda Terminal or Jupyter Notebook. It cannot run directly on Google Colab due to limitations.
+- The GUI.ipynb file can only run on Anaconda Terminal or Jupyter Notebook. It cannot run directly on Google Colab due to limitations.
 
-- The file named Assignment3_PythonProgramming_GroupProject.ipynb can run on Google Colab and Jupyter Notebook.
+- The file named Assignment3_PythonProgramming_Project.ipynb can run on Google Colab and Jupyter Notebook.
 
 - Because Game 1's data was collected via HTML web scraping, you must add the game1.html file:
 
@@ -142,7 +144,7 @@ jupyter notebook GUI.py
 ---
 
 ###  **Course Details:**
-- **Subject:** 94691 – Deep Learning  
+- **Subject:** 36122 - Python Programming - Autumn 2025  
 - **Program:** Master of Data Science and Innovation  
 - **Institution:** University of Technology Sydney (UTS)
 
