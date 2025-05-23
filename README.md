@@ -84,7 +84,7 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
   - 
 ---
 
-##### **Necessary API Keys:**
+### **Necessary API Keys:**
 - The project uses data retrieved from the website https://rapidapi.com/api-sports/api/api-basketball
 - The API key is c3d8aa9a21msh7581db5aa693f61p1ab7fcjsnf0cdd2ef7be3
 
@@ -100,7 +100,8 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
   - beautifulsoup4  
   - tkinter  
   - Pillowmatplotlib
-
+  - 
+---
 
 ### **Run the GUI**
 
