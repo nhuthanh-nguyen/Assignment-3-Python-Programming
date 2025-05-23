@@ -82,7 +82,7 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 -- Team Comparison: Quarter-by-quarter performance charts for each final game (Games 1-5).
 -- Game Box Scores: Detailed box scores for each final game (Games 1–5).
 
---- **Necessary API Keys:**
+##### **Necessary API Keys:**
 - The project uses data retrieved from the website https://rapidapi.com/api-sports/api/api-basketball
 - The API key is c3d8aa9a21msh7581db5aa693f61p1ab7fcjsnf0cdd2ef7be3
 
@@ -90,7 +90,7 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 ### **Dependencies:**
 - Python version 3.7 or higher
 - The GUI requires the following Python libraries:
--- pandas
+--- pandas
 -- matplotlib
 -- seaborn
 --requests
