@@ -81,7 +81,7 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
   - Player Stats: Interactive statistics of individual players.
   - Team Comparison: Quarter-by-quarter performance charts for each final game (Games 1-5).
   - Game Box Scores: Detailed box scores for each final game (Games 1–5).
-  - 
+    
 ---
 
 ### **Necessary API Keys:**
@@ -100,7 +100,7 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
   - beautifulsoup4  
   - tkinter  
   - Pillowmatplotlib
-  - 
+  
 ---
 
 ### **Run the GUI**
