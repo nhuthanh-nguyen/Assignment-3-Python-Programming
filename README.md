@@ -105,7 +105,9 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 
 ### **Run the GUI**
 
-- Install Dependencies: install required packages using "pip install -r requirements.txt" or "!pip install -r requirements.txt"
+- Install Dependencies: install required packages using
+  - Bash "pip install -r requirements.txt" or
+  - Bash "!pip install -r requirements.txt"
 
 - Run the GUI
   - On terminal/command prompt: execute the command "python GUI.py"
