@@ -104,7 +104,9 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 ---
 
 ### **Run the GUI**
-
+- Download the file
+- Unzip the file .rar
+- The file GUI 
 - Install Dependencies: install required packages using:
 ```bash
 pip install -r requirements.txt
