@@ -113,7 +113,7 @@ pip install -r requirements.txt
 - Run the GUI
   - On terminal/command prompt using:
 ```bash
-"python GUI.py"
+python GUI.py
 ``` 
   - On Jupyter Notebook using
 ```bash
