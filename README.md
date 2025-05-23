@@ -76,9 +76,35 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 - Developed unit tests to ensure data processing and cleaning functions work correctly, enhancing reliability and maintainability.
 
 ##### **9. Graphical User Interface (GUI):** 
-- A Python-based GUI developed using Tkinter to visualise key insights interactively.
----
+- A Python-based GUI developed using Tkinter to visualise key insights interactively. The GUI is structured into clearly navigable tabs:
+-- Overview: Championship summary.
+-- Player Stats: Interactive statistics of individual players.
+-- Team Comparison: Quarter-by-quarter performance charts for each final game (Games 1-5).
+-- Game Box Scores: Detailed box scores for each final game (Games 1–5).
 
+--- **Necessary API Keys:**
+- The project uses data retrieved from the website https://rapidapi.com/api-sports/api/api-basketball
+- The API key is c3d8aa9a21msh7581db5aa693f61p1ab7fcjsnf0cdd2ef7be3
+
+---
+### **Dependencies:**
+- Python version 3.7 or higher
+- The GUI requires the following Python libraries:
+-- pandas
+-- matplotlib
+-- seaborn
+--requests
+-- beautifulsoup4
+-- tkinter 
+-- Pillow
+
+### **Run the GUI**
+
+- Install Dependencies: install required packages using "pip install -r requirements.txt" or "!pip install -r requirements.txt"
+- Run the GUI
+-- On terminal/command prompt: execute the command "python GUI.py"
+-- On Jupyter Notebook: execute the command "jupyter notebook GUI.py"
+---
 ### **Contributors:**
 - **Nhu Thanh Nguyen** – 25505569  
 - **Andrew Fenelon** – 26100786  
