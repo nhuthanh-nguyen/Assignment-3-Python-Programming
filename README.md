@@ -5,9 +5,8 @@ This notebook presents a comprehensive analysis and visualisation of player and 
 ---
 
 ### **Notebook Structure:**
--  Assignment3_PythonProgramming_Project.ipynb
--  GUI.ipynb
-The notebook Assignment3_PythonProgramming_Project.ipynb includes the following sections:
+-  GUI.ipynb: The notebook contains the structure of the Interactive Graphical User Interface GUI
+-  Assignment3_PythonProgramming_Project.ipynb. The notebook Assignment3_PythonProgramming_Project.ipynb includes the following sections:
 ##### **1. API** : 
 - Retrieved data using a free API provided by RapidAPI - API-Basketball website https://rapidapi.com/api-sports/api/api-basketball
 - API key used: c3d8aa9a21msh7581db5aa693f61p1ab7fcjsnf0cdd2ef7be3
