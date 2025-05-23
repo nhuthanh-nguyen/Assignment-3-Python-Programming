@@ -90,17 +90,20 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
 ### **Dependencies:**
 - Python version 3.7 or higher
 - The GUI requires the following Python libraries:
---- pandas
--- matplotlib
--- seaborn
---requests
--- beautifulsoup4
--- tkinter 
--- Pillow
+ pandas
+  - pandas  
+  - matplotlib  
+  - seaborn  
+  - requests  
+  - beautifulsoup4  
+  - tkinter  
+  - Pillowmatplotlib
+
 
 ### **Run the GUI**
 
-- Install Dependencies: install required packages using "pip install -r requirements.txt" or "!pip install -r requirements.txt"
+- Install Dependencies: install required packages using "pip install -r requirements.txt" or "!pip install -r requirements.txt" ```bash
+pip install -r requirements.txt
 - Run the GUI
 -- On terminal/command prompt: execute the command "python GUI.py"
 -- On Jupyter Notebook: execute the command "jupyter notebook GUI.py"
