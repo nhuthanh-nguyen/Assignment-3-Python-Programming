@@ -111,6 +111,7 @@ Full_series_dataset: Comprehensive combined dataset from all games with the API 
   - 
 ```bash
 pip install -r requirements.txt
+```
 
 - Run the GUI
   - On terminal/command prompt: execute the command "python GUI.py"
