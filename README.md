@@ -106,7 +106,7 @@ The notebook includes the following sections:
 ### **Run the GUI**
 - Download the file
 - Unzip the file .rar or .zip 
-- Navigate to the extracted folder, you will see a file named GUI.py
+- Navigate to the extracted folder, and you will see a file named GUI.py
 - Install Dependencies: install required packages using:
 ```bash
 pip install -r requirements.txt
@@ -126,6 +126,12 @@ jupyter notebook GUI.py
 - The GUI.py file can only run on Anaconda Terminal or Jupyter Notebook. It cannot run directly on Google Colab due to limitations.
 
 - The file named Assignment3_PythonProgramming_GroupProject.ipynb can run on Google Colab and Jupyter Notebook.
+
+- Because Game 1's data was collected via HTML web scraping, you must add the game1.html file:
+
+  - Download the webpage from ESPN Game 1 Boxscore and save it as game1.html.
+
+  - Place the game1.html file in the same folder as Assignment3_PythonProgramming_GroupProject.ipynb.
 
 
 ---
